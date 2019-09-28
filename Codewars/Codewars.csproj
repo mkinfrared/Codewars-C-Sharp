@@ -5,4 +5,9 @@
         <TargetFramework>netcoreapp3.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="7kyu" />
+      <Folder Include="8kyu" />
+    </ItemGroup>
+
 </Project>
