@@ -7,7 +7,6 @@
             int result = Factorial(num);
 
             return result;
-
 //            return Enumerable.Range(1, num).Sum();
 //            return Enumerable.Range(1, num).ToArray().Sum();
         }
