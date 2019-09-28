@@ -9,7 +9,7 @@ namespace Codewars
         {
             Console.WriteLine("Hello World!");
 
-            int result = Kata.summation(3);
+            ulong result = Recursion.Factorial(0);
 
             Console.WriteLine(result);
         }
