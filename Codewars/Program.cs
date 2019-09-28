@@ -1,4 +1,5 @@
 ﻿using System;
+using Codewars.GrasshopperSummation;
 
 namespace Codewars
 {
@@ -7,6 +8,10 @@ namespace Codewars
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            ulong result = Recursion.Factorial(0);
+
+            Console.WriteLine(result);
         }
     }
 }
